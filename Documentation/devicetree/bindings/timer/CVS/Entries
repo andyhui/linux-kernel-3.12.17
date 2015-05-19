@@ -1,0 +1,14 @@
+/allwinner,sun4i-timer.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/arm,sp804.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/brcm,bcm2835-system-timer.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/cadence,ttc-timer.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/fsl,imxgpt.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/lsi,zevio-timer.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/marvell,armada-370-xp-timer.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/marvell,orion-timer.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/moxa,moxart-timer.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/nvidia,tegra20-timer.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/nvidia,tegra30-timer.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/samsung,exynos4210-mct.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/stericsson-u300-apptimer.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
+D

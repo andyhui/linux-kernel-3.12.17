@@ -1,0 +1,23 @@
+/Makefile/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/emu10k1.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/emu10k1_callback.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/emu10k1_main.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/emu10k1_patch.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/emu10k1_synth.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/emu10k1_synth_local.h/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/emu10k1x.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/emufx.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/emumixer.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/emumpu401.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/emupcm.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/emuproc.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/io.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/irq.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/memory.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/p16v.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/p16v.h/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/p17v.h/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/timer.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/tina2.h/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/voice.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
+D

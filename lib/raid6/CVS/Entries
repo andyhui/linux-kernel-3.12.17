@@ -1,0 +1,19 @@
+/.gitignore/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/Makefile/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/algos.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/altivec.uc/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/avx2.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/int.uc/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/mktables.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/mmx.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/neon.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/neon.uc/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/recov.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/recov_avx2.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/recov_ssse3.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/sse1.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/sse2.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/tilegx.uc/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/unroll.awk/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/x86.h/1.1.1.1/Thu Apr 24 07:02:17 2014//
+D

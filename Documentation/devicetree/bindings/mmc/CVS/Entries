@@ -1,0 +1,26 @@
+/atmel-hsmci.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/brcm,bcm2835-sdhci.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/davinci_mmc.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/exynos-dw-mshc.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/fsl-esdhc.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/fsl-imx-esdhc.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/fsl-imx-mmc.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/kona-sdhci.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/mmc-spi-slot.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/mmc.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/mmci.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/mxs-mmc.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/nvidia,tegra20-sdhci.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/orion-sdio.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/pxa-mmc.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/rockchip-dw-mshc.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/samsung-sdhci.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/sdhci-dove.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/sdhci-pxa.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/sdhci-sirf.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/sdhci-spear.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/synopsys-dw-mshc.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/ti-omap-hsmmc.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/tmio_mmc.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/vt8500-sdmmc.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
+D

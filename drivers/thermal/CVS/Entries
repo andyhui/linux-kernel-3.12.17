@@ -1,0 +1,21 @@
+/Kconfig/1.1.1.1/Thu Apr 24 07:02:18 2014//
+/Makefile/1.1.1.1/Thu Apr 24 07:02:18 2014//
+/armada_thermal.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
+/cpu_cooling.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
+/db8500_cpufreq_cooling.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
+/db8500_thermal.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
+/dove_thermal.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
+/fair_share.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
+/imx_thermal.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
+/intel_powerclamp.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
+/kirkwood_thermal.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
+/rcar_thermal.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
+/spear_thermal.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
+/step_wise.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
+/thermal_core.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
+/thermal_core.h/1.1.1.1/Thu Apr 24 07:02:18 2014//
+/thermal_hwmon.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
+/thermal_hwmon.h/1.1.1.1/Thu Apr 24 07:02:18 2014//
+/user_space.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
+/x86_pkg_temp_thermal.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
+D

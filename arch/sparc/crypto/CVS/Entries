@@ -1,0 +1,20 @@
+/Makefile/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/aes_asm.S/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/aes_glue.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/camellia_asm.S/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/camellia_glue.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/crc32c_asm.S/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/crc32c_glue.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/crop_devid.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/des_asm.S/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/des_glue.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/md5_asm.S/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/md5_glue.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/opcodes.h/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/sha1_asm.S/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/sha1_glue.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/sha256_asm.S/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/sha256_glue.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/sha512_asm.S/1.1.1.1/Thu Apr 24 07:02:17 2014//
+/sha512_glue.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
+D

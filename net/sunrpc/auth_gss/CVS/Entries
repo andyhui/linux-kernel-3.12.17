@@ -1,0 +1,17 @@
+/Makefile/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/auth_gss.c/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/gss_generic_token.c/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/gss_krb5_crypto.c/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/gss_krb5_keys.c/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/gss_krb5_mech.c/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/gss_krb5_seal.c/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/gss_krb5_seqnum.c/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/gss_krb5_unseal.c/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/gss_krb5_wrap.c/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/gss_mech_switch.c/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/gss_rpc_upcall.c/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/gss_rpc_upcall.h/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/gss_rpc_xdr.c/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/gss_rpc_xdr.h/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/svcauth_gss.c/1.1.1.1/Thu Apr 24 07:02:15 2014//
+D

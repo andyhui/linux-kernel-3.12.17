@@ -1,0 +1,13 @@
+/boolinit.cocci/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/boolreturn.cocci/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/cstptr.cocci/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/doubleinit.cocci/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/ifaddr.cocci/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/ifcol.cocci/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/irqf_oneshot.cocci/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/memcpy-assign.cocci/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/noderef.cocci/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/orplus.cocci/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/semicolon.cocci/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/warn.cocci/1.1.1.1/Thu Apr 24 07:02:15 2014//
+D

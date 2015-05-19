@@ -1,0 +1,7 @@
+/clk_put.cocci/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/devm_free.cocci/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/iounmap.cocci/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/kfree.cocci/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/kfreeaddr.cocci/1.1.1.1/Thu Apr 24 07:02:15 2014//
+/pci_free_consistent.cocci/1.1.1.1/Thu Apr 24 07:02:15 2014//
+D
