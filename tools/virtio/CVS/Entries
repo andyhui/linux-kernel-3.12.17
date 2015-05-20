@@ -2,4 +2,8 @@
 /Makefile/1.1.1.1/Thu Apr 24 07:02:15 2014//
 /virtio_test.c/1.1.1.1/Thu Apr 24 07:02:15 2014//
 /vringh_test.c/1.1.1.1/Thu Apr 24 07:02:15 2014//
-D
+D/asm////
+D/linux////
+D/uapi////
+D/vhost_test////
+D/virtio-trace////

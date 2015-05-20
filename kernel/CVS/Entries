@@ -129,4 +129,13 @@
 /watchdog.c/1.1.1.1/Thu Apr 24 07:02:16 2014//
 /workqueue.c/1.1.1.1/Thu Apr 24 07:02:16 2014//
 /workqueue_internal.h/1.1.1.1/Thu Apr 24 07:02:16 2014//
-D
+D/cpu////
+D/debug////
+D/events////
+D/gcov////
+D/irq////
+D/power////
+D/printk////
+D/sched////
+D/time////
+D/trace////

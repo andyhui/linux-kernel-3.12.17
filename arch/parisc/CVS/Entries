@@ -4,4 +4,11 @@
 /defpalo.conf/1.1.1.1/Thu Apr 24 07:02:16 2014//
 /install.sh/1.1.1.1/Thu Apr 24 07:02:16 2014//
 /nm/1.1.1.1/Thu Apr 24 07:02:16 2014//
-D
+D/configs////
+D/hpux////
+D/include////
+D/kernel////
+D/lib////
+D/math-emu////
+D/mm////
+D/oprofile////

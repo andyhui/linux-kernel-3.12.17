@@ -74,4 +74,14 @@
 /unifdef.c/1.1.1.1/Thu Apr 24 07:02:15 2014//
 /ver_linux/1.1.1.1/Thu Apr 24 07:02:15 2014//
 /xz_wrap.sh/1.1.1.1/Thu Apr 24 07:02:15 2014//
-D
+D/basic////
+D/coccinelle////
+D/dtc////
+D/genksyms////
+D/kconfig////
+D/ksymoops////
+D/mod////
+D/package////
+D/rt-tester////
+D/selinux////
+D/tracing////

@@ -27,4 +27,11 @@
 /sm_ftl.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
 /sm_ftl.h/1.1.1.1/Thu Apr 24 07:02:18 2014//
 /ssfdc.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
-D
+D/chips////
+D/devices////
+D/lpddr////
+D/maps////
+D/nand////
+D/onenand////
+D/tests////
+D/ubi////

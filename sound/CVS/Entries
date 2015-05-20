@@ -4,4 +4,23 @@
 /last.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
 /sound_core.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
 /sound_firmware.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
-D
+D/aoa////
+D/arm////
+D/atmel////
+D/core////
+D/drivers////
+D/firewire////
+D/i2c////
+D/isa////
+D/mips////
+D/oss////
+D/parisc////
+D/pci////
+D/pcmcia////
+D/ppc////
+D/sh////
+D/soc////
+D/sparc////
+D/spi////
+D/synth////
+D/usb////

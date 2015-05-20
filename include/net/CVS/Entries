@@ -135,4 +135,14 @@
 /x25.h/1.1.1.1/Thu Apr 24 07:02:17 2014//
 /x25device.h/1.1.1.1/Thu Apr 24 07:02:17 2014//
 /xfrm.h/1.1.1.1/Thu Apr 24 07:02:17 2014//
-D
+D/9p////
+D/bluetooth////
+D/caif////
+D/irda////
+D/iucv////
+D/netfilter////
+D/netns////
+D/nfc////
+D/phonet////
+D/sctp////
+D/tc_act////

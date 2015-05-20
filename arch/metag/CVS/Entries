@@ -2,4 +2,11 @@
 /Kconfig.debug/1.1.1.1/Thu Apr 24 07:02:17 2014//
 /Kconfig.soc/1.1.1.1/Thu Apr 24 07:02:17 2014//
 /Makefile/1.1.1.1/Thu Apr 24 07:02:17 2014//
-D
+D/boot////
+D/configs////
+D/include////
+D/kernel////
+D/lib////
+D/mm////
+D/oprofile////
+D/tbx////

@@ -46,4 +46,10 @@
 /ttyprintk.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
 /uv_mmtimer.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
 /virtio_console.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
-D
+D/agp////
+D/hw_random////
+D/ipmi////
+D/mwave////
+D/pcmcia////
+D/tpm////
+D/xilinx_hwicap////

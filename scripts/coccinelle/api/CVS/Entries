@@ -8,4 +8,4 @@
 /ptr_ret.cocci/1.1.1.1/Thu Apr 24 07:02:15 2014//
 /resource_size.cocci/1.1.1.1/Thu Apr 24 07:02:15 2014//
 /simple_open.cocci/1.1.1.1/Thu Apr 24 07:02:15 2014//
-D
+D/alloc////

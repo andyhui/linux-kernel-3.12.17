@@ -30,4 +30,6 @@
 /xen-selfballoon.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
 /xen-stub.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
 /xencomm.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
-D
+D/xen-pciback////
+D/xenbus////
+D/xenfs////

@@ -163,4 +163,6 @@
 /virt.h/1.1.1.1/Thu Apr 24 07:02:16 2014//
 /word-at-a-time.h/1.1.1.1/Thu Apr 24 07:02:16 2014//
 /xor.h/1.1.1.1/Thu Apr 24 07:02:16 2014//
-D
+D/hardware////
+D/mach////
+D/xen////

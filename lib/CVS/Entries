@@ -167,4 +167,12 @@
 /usercopy.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
 /uuid.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
 /vsprintf.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
-D
+D/fonts////
+D/lz4////
+D/lzo////
+D/mpi////
+D/raid6////
+D/reed_solomon////
+D/xz////
+D/zlib_deflate////
+D/zlib_inflate////

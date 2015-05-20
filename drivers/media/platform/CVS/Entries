@@ -20,4 +20,17 @@
 /vino.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
 /vino.h/1.1.1.1/Thu Apr 24 07:02:18 2014//
 /vivi.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
-D
+D/blackfin////
+D/davinci////
+D/exynos-gsc////
+D/exynos4-is////
+D/marvell-ccic////
+D/omap////
+D/omap3isp////
+D/s3c-camif////
+D/s5p-g2d////
+D/s5p-jpeg////
+D/s5p-mfc////
+D/s5p-tv////
+D/soc_camera////
+D/vsp1////

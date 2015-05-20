@@ -22,4 +22,23 @@
 /wl3501_cs.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
 /zd1201.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
 /zd1201.h/1.1.1.1/Thu Apr 24 07:02:18 2014//
-D
+D/ath////
+D/b43////
+D/b43legacy////
+D/brcm80211////
+D/cw1200////
+D/hostap////
+D/ipw2x00////
+D/iwlegacy////
+D/iwlwifi////
+D/libertas////
+D/libertas_tf////
+D/mwifiex////
+D/orinoco////
+D/p54////
+D/prism54////
+D/rt2x00////
+D/rtl818x////
+D/rtlwifi////
+D/ti////
+D/zd1211rw////

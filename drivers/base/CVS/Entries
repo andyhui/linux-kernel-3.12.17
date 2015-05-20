@@ -30,4 +30,5 @@
 /syscore.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
 /topology.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
 /transport_class.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
-D
+D/power////
+D/regmap////

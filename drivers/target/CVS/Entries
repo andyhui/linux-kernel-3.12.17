@@ -28,4 +28,7 @@
 /target_core_ua.h/1.1.1.1/Thu Apr 24 07:02:18 2014//
 /target_core_xcopy.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
 /target_core_xcopy.h/1.1.1.1/Thu Apr 24 07:02:18 2014//
-D
+D/iscsi////
+D/loopback////
+D/sbp////
+D/tcm_fc////

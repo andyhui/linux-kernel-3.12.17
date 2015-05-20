@@ -3,4 +3,45 @@
 /Kconfig/1.1.1.1/Thu Apr 24 07:02:17 2014//
 /Kconfig.debug/1.1.1.1/Thu Apr 24 07:02:17 2014//
 /Makefile/1.1.1.1/Thu Apr 24 07:02:17 2014//
-D
+D/alchemy////
+D/ar7////
+D/ath79////
+D/bcm47xx////
+D/bcm63xx////
+D/boot////
+D/cavium-octeon////
+D/cobalt////
+D/configs////
+D/dec////
+D/emma////
+D/fw////
+D/include////
+D/jazz////
+D/jz4740////
+D/kernel////
+D/kvm////
+D/lantiq////
+D/lasat////
+D/lib////
+D/loongson////
+D/loongson1////
+D/math-emu////
+D/mm////
+D/mti-malta////
+D/mti-sead3////
+D/netlogic////
+D/oprofile////
+D/pci////
+D/pmcs-msp71xx////
+D/pnx833x////
+D/power////
+D/powertv////
+D/ralink////
+D/rb532////
+D/sgi-ip22////
+D/sgi-ip27////
+D/sgi-ip32////
+D/sibyte////
+D/sni////
+D/txx9////
+D/vr41xx////

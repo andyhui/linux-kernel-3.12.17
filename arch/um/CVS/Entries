@@ -11,4 +11,10 @@
 /Makefile-ppc/1.1.1.1/Thu Apr 24 07:02:16 2014//
 /Makefile-skas/1.1.1.1/Thu Apr 24 07:02:16 2014//
 /defconfig/1.1.1.1/Thu Apr 24 07:02:16 2014//
-D
+D/drivers////
+D/include////
+D/kernel////
+D/os-Linux////
+D/scripts////
+D/sys-ia64////
+D/sys-ppc////

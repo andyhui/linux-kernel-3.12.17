@@ -205,4 +205,36 @@
 /wd7000.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
 /zalon.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
 /zorro7xx.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
-D
+D/aacraid////
+D/aic7xxx////
+D/aic7xxx_old////
+D/aic94xx////
+D/arcmsr////
+D/arm////
+D/be2iscsi////
+D/bfa////
+D/bnx2fc////
+D/bnx2i////
+D/csiostor////
+D/cxgbi////
+D/device_handler////
+D/dpt////
+D/esas2r////
+D/fcoe////
+D/fnic////
+D/ibmvscsi////
+D/isci////
+D/libfc////
+D/libsas////
+D/lpfc////
+D/megaraid////
+D/mpt2sas////
+D/mpt3sas////
+D/mvsas////
+D/osd////
+D/pcmcia////
+D/pm8001////
+D/qla2xxx////
+D/qla4xxx////
+D/sym53c8xx_2////
+D/ufs////

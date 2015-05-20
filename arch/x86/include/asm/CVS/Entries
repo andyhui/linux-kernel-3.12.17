@@ -280,4 +280,9 @@
 /xor_64.h/1.1.1.1/Thu Apr 24 07:02:16 2014//
 /xor_avx.h/1.1.1.1/Thu Apr 24 07:02:16 2014//
 /xsave.h/1.1.1.1/Thu Apr 24 07:02:16 2014//
-D
+D/crypto////
+D/numachip////
+D/trace////
+D/uv////
+D/visws////
+D/xen////

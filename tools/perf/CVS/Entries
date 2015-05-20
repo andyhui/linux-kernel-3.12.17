@@ -31,4 +31,12 @@
 /perf-archive.sh/1.1.1.1/Thu Apr 24 07:02:15 2014//
 /perf.c/1.1.1.1/Thu Apr 24 07:02:15 2014//
 /perf.h/1.1.1.1/Thu Apr 24 07:02:15 2014//
-D
+D/Documentation////
+D/arch////
+D/bench////
+D/config////
+D/python////
+D/scripts////
+D/tests////
+D/ui////
+D/util////

@@ -9,4 +9,26 @@
 /soc-jack.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
 /soc-pcm.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
 /soc-utils.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
-D
+D/atmel////
+D/au1x////
+D/blackfin////
+D/cirrus////
+D/codecs////
+D/davinci////
+D/dwc////
+D/fsl////
+D/generic////
+D/jz4740////
+D/kirkwood////
+D/mid-x86////
+D/mxs////
+D/nuc900////
+D/omap////
+D/pxa////
+D/s6000////
+D/samsung////
+D/sh////
+D/spear////
+D/tegra////
+D/txx9////
+D/ux500////

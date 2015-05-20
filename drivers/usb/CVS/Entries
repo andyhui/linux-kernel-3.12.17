@@ -3,4 +3,21 @@
 /README/1.1.1.1/Thu Apr 24 07:02:18 2014//
 /usb-common.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
 /usb-skeleton.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
-D
+D/atm////
+D/c67x00////
+D/chipidea////
+D/class////
+D/core////
+D/dwc3////
+D/early////
+D/gadget////
+D/host////
+D/image////
+D/misc////
+D/mon////
+D/musb////
+D/phy////
+D/renesas_usbhs////
+D/serial////
+D/storage////
+D/wusbcore////

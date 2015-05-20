@@ -31,4 +31,6 @@
 /syscall.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
 /vpd.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
 /xen-pcifront.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
-D
+D/host////
+D/hotplug////
+D/pcie////

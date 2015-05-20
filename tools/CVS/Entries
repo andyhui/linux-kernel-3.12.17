@@ -1,2 +1,16 @@
 /Makefile/1.1.1.1/Thu Apr 24 07:02:15 2014//
-D
+D/cgroup////
+D/firewire////
+D/hv////
+D/include////
+D/lguest////
+D/lib////
+D/net////
+D/nfsd////
+D/perf////
+D/power////
+D/scripts////
+D/testing////
+D/usb////
+D/virtio////
+D/vm////

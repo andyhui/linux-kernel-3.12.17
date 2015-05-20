@@ -45,4 +45,28 @@
 /drm_usb.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
 /drm_vm.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
 /drm_vma_manager.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
-D
+D/ast////
+D/cirrus////
+D/exynos////
+D/gma500////
+D/i2c////
+D/i810////
+D/i915////
+D/mga////
+D/mgag200////
+D/msm////
+D/nouveau////
+D/omapdrm////
+D/qxl////
+D/r128////
+D/radeon////
+D/rcar-du////
+D/savage////
+D/shmobile////
+D/sis////
+D/tdfx////
+D/tilcdc////
+D/ttm////
+D/udl////
+D/via////
+D/vmwgfx////

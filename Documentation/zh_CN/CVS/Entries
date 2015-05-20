@@ -13,4 +13,7 @@
 /stable_api_nonsense.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
 /stable_kernel_rules.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
 /volatile-considered-harmful.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
-D
+D/arm////
+D/arm64////
+D/filesystems////
+D/video4linux////

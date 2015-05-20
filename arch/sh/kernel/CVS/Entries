@@ -59,4 +59,5 @@
 /traps_64.c/1.1.1.1/Thu Apr 24 07:02:16 2014//
 /unwinder.c/1.1.1.1/Thu Apr 24 07:02:16 2014//
 /vmlinux.lds.S/1.1.1.1/Thu Apr 24 07:02:16 2014//
-D
+D/cpu////
+D/vsyscall////

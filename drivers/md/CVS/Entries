@@ -74,4 +74,5 @@
 /raid10.h/1.1.1.1/Thu Apr 24 07:02:18 2014//
 /raid5.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
 /raid5.h/1.1.1.1/Thu Apr 24 07:02:18 2014//
-D
+D/bcache////
+D/persistent-data////

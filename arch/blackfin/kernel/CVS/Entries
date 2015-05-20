@@ -37,4 +37,5 @@
 /trace.c/1.1.1.1/Thu Apr 24 07:02:16 2014//
 /traps.c/1.1.1.1/Thu Apr 24 07:02:16 2014//
 /vmlinux.lds.S/1.1.1.1/Thu Apr 24 07:02:16 2014//
-D
+D/cplb-mpu////
+D/cplb-nompu////

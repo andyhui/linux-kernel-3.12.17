@@ -92,4 +92,5 @@
 /xor.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
 /xts.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
 /zlib.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
-D
+D/asymmetric_keys////
+D/async_tx////

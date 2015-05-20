@@ -114,4 +114,6 @@
 /xfrm_sync.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
 /xfrm_sysctl.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
 /z8530drv.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
-D
+D/caif////
+D/mac80211_hwsim////
+D/timestamping////

@@ -27,4 +27,5 @@
 /xdr.c/1.1.1.1/Thu Apr 24 07:02:15 2014//
 /xprt.c/1.1.1.1/Thu Apr 24 07:02:15 2014//
 /xprtsock.c/1.1.1.1/Thu Apr 24 07:02:15 2014//
-D
+D/auth_gss////
+D/xprtrdma////

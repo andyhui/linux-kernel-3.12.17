@@ -388,4 +388,25 @@
 /x25.h/1.1.1.1/Thu Apr 24 07:02:17 2014//
 /xattr.h/1.1.1.1/Thu Apr 24 07:02:17 2014//
 /xfrm.h/1.1.1.1/Thu Apr 24 07:02:17 2014//
-D
+D/byteorder////
+D/caif////
+D/can////
+D/cifs////
+D/dvb////
+D/hdlc////
+D/hsi////
+D/isdn////
+D/mmc////
+D/netfilter////
+D/netfilter_arp////
+D/netfilter_bridge////
+D/netfilter_ipv4////
+D/netfilter_ipv6////
+D/nfsd////
+D/raid////
+D/spi////
+D/sunrpc////
+D/tc_act////
+D/tc_ematch////
+D/usb////
+D/wimax////

@@ -21,4 +21,28 @@
 /virtio_net.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
 /vxlan.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
 /xen-netfront.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
-D
+D/appletalk////
+D/arcnet////
+D/bonding////
+D/caif////
+D/can////
+D/cris////
+D/dsa////
+D/ethernet////
+D/fddi////
+D/hamradio////
+D/hippi////
+D/hyperv////
+D/ieee802154////
+D/irda////
+D/phy////
+D/plip////
+D/ppp////
+D/slip////
+D/team////
+D/usb////
+D/vmxnet3////
+D/wan////
+D/wimax////
+D/wireless////
+D/xen-netback////

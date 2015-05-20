@@ -1,4 +1,11 @@
 /Kconfig/1.1.1.1/Thu Apr 24 07:02:18 2014//
 /Makefile/1.1.1.1/Thu Apr 24 07:02:18 2014//
 /e100.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
-D
+D/e1000////
+D/e1000e////
+D/i40e////
+D/igb////
+D/igbvf////
+D/ixgb////
+D/ixgbe////
+D/ixgbevf////

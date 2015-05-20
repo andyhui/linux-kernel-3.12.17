@@ -25,4 +25,16 @@
 /clk-wm831x.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
 /clk.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
 /clkdev.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
-D
+D/mmp////
+D/mvebu////
+D/mxs////
+D/rockchip////
+D/samsung////
+D/socfpga////
+D/spear////
+D/sunxi////
+D/tegra////
+D/ux500////
+D/versatile////
+D/x86////
+D/zynq////

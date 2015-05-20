@@ -42,4 +42,15 @@
 /tifm_core.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
 /tsl2550.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
 /vmw_balloon.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
-D
+D/altera-stapl////
+D/c2port////
+D/carma////
+D/cb710////
+D/eeprom////
+D/ibmasm////
+D/lis3lv02d////
+D/mei////
+D/sgi-gru////
+D/sgi-xp////
+D/ti-st////
+D/vmw_vmci////

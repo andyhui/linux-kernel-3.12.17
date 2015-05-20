@@ -10,4 +10,8 @@
 /portman2x4.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
 /serial-u16550.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
 /virmidi.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
-D
+D/mpu401////
+D/opl3////
+D/opl4////
+D/pcsp////
+D/vx////

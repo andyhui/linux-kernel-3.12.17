@@ -8,4 +8,16 @@
 /iio_simple_dummy_buffer.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
 /iio_simple_dummy_events.c/1.1.1.1/Thu Apr 24 07:02:17 2014//
 /ring_hw.h/1.1.1.1/Thu Apr 24 07:02:17 2014//
-D
+D/Documentation////
+D/accel////
+D/adc////
+D/addac////
+D/cdc////
+D/frequency////
+D/gyro////
+D/impedance-analyzer////
+D/light////
+D/magnetometer////
+D/meter////
+D/resolver////
+D/trigger////

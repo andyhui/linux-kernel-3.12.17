@@ -28,4 +28,7 @@
 /tls_32.c/1.1.1.1/Thu Apr 24 07:02:16 2014//
 /tls_64.c/1.1.1.1/Thu Apr 24 07:02:16 2014//
 /user-offsets.c/1.1.1.1/Thu Apr 24 07:02:16 2014//
-D
+D/asm////
+D/os-Linux////
+D/shared////
+D/vdso////

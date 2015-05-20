@@ -6,4 +6,11 @@
 /init.c/1.1.1.1/Thu Apr 24 07:02:16 2014//
 /pfc.c/1.1.1.1/Thu Apr 24 07:02:16 2014//
 /proc.c/1.1.1.1/Thu Apr 24 07:02:16 2014//
-D
+D/irq////
+D/sh2////
+D/sh2a////
+D/sh3////
+D/sh4////
+D/sh4a////
+D/sh5////
+D/shmobile////

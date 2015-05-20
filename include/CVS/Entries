@@ -1,2 +1,26 @@
 /Kbuild/1.1.1.1/Thu Apr 24 07:02:17 2014//
-D
+D/acpi////
+D/asm-generic////
+D/clocksource////
+D/crypto////
+D/drm////
+D/dt-bindings////
+D/keys////
+D/kvm////
+D/linux////
+D/math-emu////
+D/media////
+D/memory////
+D/misc////
+D/net////
+D/pcmcia////
+D/ras////
+D/rdma////
+D/rxrpc////
+D/scsi////
+D/sound////
+D/target////
+D/trace////
+D/uapi////
+D/video////
+D/xen////

@@ -2,4 +2,19 @@
 /Kconfig/1.1.1.1/Thu Apr 24 07:02:16 2014//
 /Kconfig.debug/1.1.1.1/Thu Apr 24 07:02:16 2014//
 /Makefile/1.1.1.1/Thu Apr 24 07:02:16 2014//
-D
+D/boot////
+D/configs////
+D/include////
+D/kernel////
+D/lib////
+D/mach-bf518////
+D/mach-bf527////
+D/mach-bf533////
+D/mach-bf537////
+D/mach-bf538////
+D/mach-bf548////
+D/mach-bf561////
+D/mach-bf609////
+D/mach-common////
+D/mm////
+D/oprofile////

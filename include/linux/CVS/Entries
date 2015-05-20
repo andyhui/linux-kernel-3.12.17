@@ -1028,4 +1028,46 @@
 /zorro.h/1.1.1.1/Thu Apr 24 07:02:17 2014//
 /zorro_ids.h/1.1.1.1/Thu Apr 24 07:02:17 2014//
 /zutil.h/1.1.1.1/Thu Apr 24 07:02:17 2014//
-D
+D/amba////
+D/bcma////
+D/byteorder////
+D/can////
+D/ceph////
+D/clk////
+D/crush////
+D/decompress////
+D/dma////
+D/extcon////
+D/fsl////
+D/hsi////
+D/i2c////
+D/iio////
+D/input////
+D/irqchip////
+D/isdn////
+D/lockd////
+D/mfd////
+D/mlx4////
+D/mlx5////
+D/mmc////
+D/mtd////
+D/netfilter////
+D/netfilter_arp////
+D/netfilter_bridge////
+D/netfilter_ipv4////
+D/netfilter_ipv6////
+D/nfsd////
+D/pinctrl////
+D/platform_data////
+D/power////
+D/raid////
+D/regulator////
+D/rtc////
+D/sched////
+D/spi////
+D/ssb////
+D/sunrpc////
+D/unaligned////
+D/usb////
+D/uwb////
+D/wimax////

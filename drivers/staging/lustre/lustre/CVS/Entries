@@ -1,3 +1,18 @@
 /Kconfig/1.1.1.1/Thu Apr 24 07:02:17 2014//
 /Makefile/1.1.1.1/Thu Apr 24 07:02:17 2014//
-D
+D/fid////
+D/fld////
+D/include////
+D/lclient////
+D/ldlm////
+D/libcfs////
+D/llite////
+D/lmv////
+D/lov////
+D/lvfs////
+D/mdc////
+D/mgc////
+D/obdclass////
+D/obdecho////
+D/osc////
+D/ptlrpc////

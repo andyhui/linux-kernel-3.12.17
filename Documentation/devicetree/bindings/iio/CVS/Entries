@@ -1,2 +1,7 @@
 /iio-bindings.txt/1.1.1.1/Thu Apr 24 07:02:15 2014//
-D
+D/accel////
+D/adc////
+D/dac////
+D/frequency////
+D/light////
+D/magnetometer////

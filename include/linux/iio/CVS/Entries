@@ -10,4 +10,9 @@
 /trigger_consumer.h/1.1.1.1/Thu Apr 24 07:02:17 2014//
 /triggered_buffer.h/1.1.1.1/Thu Apr 24 07:02:17 2014//
 /types.h/1.1.1.1/Thu Apr 24 07:02:17 2014//
-D
+D/adc////
+D/common////
+D/dac////
+D/frequency////
+D/gyro////
+D/imu////

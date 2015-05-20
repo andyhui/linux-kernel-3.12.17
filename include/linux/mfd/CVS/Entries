@@ -75,4 +75,15 @@
 /wm8400-audio.h/1.1.1.1/Thu Apr 24 07:02:17 2014//
 /wm8400-private.h/1.1.1.1/Thu Apr 24 07:02:17 2014//
 /wm8400.h/1.1.1.1/Thu Apr 24 07:02:17 2014//
-D
+D/abx500////
+D/arizona////
+D/da9052////
+D/da9055////
+D/da9063////
+D/pcf50633////
+D/pm8xxx////
+D/samsung////
+D/syscon////
+D/wm831x////
+D/wm8350////
+D/wm8994////

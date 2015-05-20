@@ -10,4 +10,16 @@
 /industrialio-triggered-buffer.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
 /inkern.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
 /kfifo_buf.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
-D
+D/accel////
+D/adc////
+D/amplifiers////
+D/common////
+D/dac////
+D/frequency////
+D/gyro////
+D/imu////
+D/light////
+D/magnetometer////
+D/pressure////
+D/temperature////
+D/trigger////

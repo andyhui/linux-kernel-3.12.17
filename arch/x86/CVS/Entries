@@ -6,4 +6,26 @@
 /Makefile/1.1.1.1/Thu Apr 24 07:02:16 2014//
 /Makefile.um/1.1.1.1/Thu Apr 24 07:02:16 2014//
 /Makefile_32.cpu/1.1.1.1/Thu Apr 24 07:02:16 2014//
-D
+D/boot////
+D/configs////
+D/crypto////
+D/ia32////
+D/include////
+D/kernel////
+D/kvm////
+D/lguest////
+D/lib////
+D/math-emu////
+D/mm////
+D/net////
+D/oprofile////
+D/pci////
+D/platform////
+D/power////
+D/realmode////
+D/syscalls////
+D/tools////
+D/um////
+D/vdso////
+D/video////
+D/xen////

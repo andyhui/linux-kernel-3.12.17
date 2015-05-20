@@ -1,3 +1,8 @@
 /common.c/1.1.1.1/Thu Apr 24 07:02:15 2014//
 /common.h/1.1.1.1/Thu Apr 24 07:02:15 2014//
-D
+D/arm////
+D/powerpc////
+D/s390////
+D/sh////
+D/sparc////
+D/x86////

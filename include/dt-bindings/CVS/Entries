@@ -1,1 +1,9 @@
-D
+D/clk////
+D/clock////
+D/dma////
+D/gpio////
+D/input////
+D/interrupt-controller////
+D/pinctrl////
+D/pwm////
+D/sound////

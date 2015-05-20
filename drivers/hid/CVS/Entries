@@ -104,4 +104,5 @@
 /hid-zydacron.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
 /hidraw.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
 /uhid.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
-D
+D/i2c-hid////
+D/usbhid////

@@ -66,4 +66,8 @@
 /pinctrl-xway.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
 /pinmux.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
 /pinmux.h/1.1.1.1/Thu Apr 24 07:02:18 2014//
-D
+D/mvebu////
+D/sh-pfc////
+D/sirf////
+D/spear////
+D/vt8500////

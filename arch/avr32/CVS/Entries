@@ -1,4 +1,12 @@
 /Kconfig/1.1.1.1/Thu Apr 24 07:02:16 2014//
 /Kconfig.debug/1.1.1.1/Thu Apr 24 07:02:16 2014//
 /Makefile/1.1.1.1/Thu Apr 24 07:02:16 2014//
-D
+D/boards////
+D/boot////
+D/configs////
+D/include////
+D/kernel////
+D/lib////
+D/mach-at32ap////
+D/mm////
+D/oprofile////

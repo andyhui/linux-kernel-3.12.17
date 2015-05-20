@@ -2,4 +2,16 @@
 /Kconfig.cpu/1.1.1.1/Thu Apr 24 07:02:16 2014//
 /Kconfig.debug/1.1.1.1/Thu Apr 24 07:02:16 2014//
 /Makefile/1.1.1.1/Thu Apr 24 07:02:16 2014//
-D
+D/boards////
+D/boot////
+D/cchips////
+D/configs////
+D/drivers////
+D/include////
+D/kernel////
+D/lib////
+D/lib64////
+D/math-emu////
+D/mm////
+D/oprofile////
+D/tools////

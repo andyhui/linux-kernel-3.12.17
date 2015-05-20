@@ -3,4 +3,17 @@
 /media-device.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
 /media-devnode.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
 /media-entity.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
-D
+D/common////
+D/dvb-core////
+D/dvb-frontends////
+D/firewire////
+D/i2c////
+D/mmc////
+D/parport////
+D/pci////
+D/platform////
+D/radio////
+D/rc////
+D/tuners////
+D/usb////
+D/v4l2-core////

@@ -30,4 +30,5 @@
 /i915_pciids.h/1.1.1.1/Thu Apr 24 07:02:17 2014//
 /i915_powerwell.h/1.1.1.1/Thu Apr 24 07:02:17 2014//
 /intel-gtt.h/1.1.1.1/Thu Apr 24 07:02:17 2014//
-D
+D/i2c////
+D/ttm////

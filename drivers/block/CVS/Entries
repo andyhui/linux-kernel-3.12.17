@@ -41,4 +41,9 @@
 /xen-blkfront.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
 /xsysace.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
 /z2ram.c/1.1.1.1/Thu Apr 24 07:02:18 2014//
-D
+D/aoe////
+D/drbd////
+D/mtip32xx////
+D/paride////
+D/rsxx////
+D/xen-blkback////

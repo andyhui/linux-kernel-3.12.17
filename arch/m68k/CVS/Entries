@@ -6,4 +6,25 @@
 /Kconfig.machine/1.1.1.1/Thu Apr 24 07:02:17 2014//
 /Makefile/1.1.1.1/Thu Apr 24 07:02:17 2014//
 /install.sh/1.1.1.1/Thu Apr 24 07:02:17 2014//
-D
+D/amiga////
+D/apollo////
+D/atari////
+D/bvme6000////
+D/configs////
+D/emu////
+D/fpsp040////
+D/hp300////
+D/ifpsp060////
+D/include////
+D/kernel////
+D/lib////
+D/mac////
+D/math-emu////
+D/mm////
+D/mvme147////
+D/mvme16x////
+D/platform////
+D/q40////
+D/sun3////
+D/sun3x////
+D/tools////
